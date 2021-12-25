@@ -1,0 +1,23 @@
+.chart_bar {
+  display: inline-block;
+}
+
+.bar {
+  background-color: white;
+  width: 1.5rem;
+  margin: 0 1.5rem;
+  display: inline-block;
+  height: 10rem;
+  border-radius: 10rem;
+  overflow: hidden;
+  transform: rotate(180deg);
+}
+
+.fill {
+  margin-bottom: 0;
+  background-color: #c782c6;
+}
+
+.text {
+  color: #fff;
+}
